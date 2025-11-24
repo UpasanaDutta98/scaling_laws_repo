@@ -1,2 +1,2 @@
-# Instruction 1
+# Instructions
 
